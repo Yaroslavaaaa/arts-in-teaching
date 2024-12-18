@@ -1,0 +1,36 @@
+.footer {
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    padding: 20px 10px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  
+  .footer-link {
+    color: #1abc9c;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-link:hover {
+    color: #16a085;
+  }
+  
+  .footer-small {
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #bdc3c7;
+  }
+  
+  hr {
+    border: none;
+    border-top: 1px solid #7f8c8d;
+    margin: 10px 0;
+  }
+  
