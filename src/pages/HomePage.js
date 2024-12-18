@@ -6,7 +6,7 @@ import './HomePage.css';
 const HomePage = () => {
   return (
     <div className="home-container">
-      <h1 className="gallery-title">Приложение для авторской программы "Интеграция уроков образовательной области «Язык и литература» с дисциплинами искусствоведческого цикла"</h1>
+      <h3 className="gallery-title">Приложение для авторской программы «Интеграция уроков образовательной области «Язык и литература» с дисциплинами искусствоведческого цикла»</h3>
       <div className="gallery">
         {paintings.map((painting) => (
           <PaintingCard key={painting.id} painting={painting} />
