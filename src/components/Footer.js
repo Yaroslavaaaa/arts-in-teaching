@@ -8,7 +8,7 @@ const Footer = () => {
         <p>
           <strong>Вуйко Наталия Викторовна</strong> <br />
           Учитель русского языка и литературы <br />
-          "Общеобразовательной" школы имени Амангелды Иманова <br />
+          "Общеобразовательной школы имени Амангелды Иманова" <br />
           <a href="mailto:natali-vuiko@yandex.ru" className="footer-link">
             Email: natali-vuiko@yandex.ru
           </a>
